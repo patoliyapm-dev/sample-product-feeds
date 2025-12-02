@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/patoliyapm-dev/sample-product-feeds/main/products_20mb-flat.json
+https://raw.githubusercontent.com/patoliyapm-dev/sample-product-feeds/main/products_20mb-nested.json
